@@ -1,0 +1,76 @@
+#buttons {
+    display: flex;
+}
+
+
+.sub-row-nav {
+    justify-content: space-between;
+    display: flex;
+}
+
+.menu-bar {
+    background-color: rgba(128, 128, 128, 0.219);
+    padding: 8px;
+}
+
+.col-2 menu-bar {
+    text-align: right;
+}
+
+#icons {
+    text-align: center;
+    padding: 10px;
+}
+
+.photos {
+    text-align: center;    
+}
+
+img.gallery {
+    margin: 3px;
+}
+
+.gallery-img {
+
+}
+
+#cards {
+    justify-content: center;
+    text-align: center;
+}
+
+.single-colunm-pic {
+     width: 100%;
+}
+ 
+.card-top {
+    display: flex;
+    text-align: left;
+    border-left: rgba(128, 128, 128, 0.137) 1px ridge;
+    border-right: rgba(128, 128, 128, 0.137) 1px ridge;
+    border-top: rgba(128, 128, 128, 0.137) 1px ridge;
+    border-radius: 5px;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.card-mid {
+    text-align: left;
+    border-left: rgba(128, 128, 128, 0.137) 1px ridge;
+    border-right: rgba(128, 128, 128, 0.137) 1px ridge;
+    border-bottom: rgba(128, 128, 128, 0.137) 1px ridge;
+    border-radius: 5px;
+}
+
+.card-bottom {
+    text-align: left;
+    border-left: rgba(128, 128, 128, 0.137) 1px ridge;
+    border-right: rgba(128, 128, 128, 0.137) 1px ridge;
+    border-bottom: rgba(128, 128, 128, 0.137) 1px ridge;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.card-row{
+    margin: 5px;
+}
